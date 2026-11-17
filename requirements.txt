@@ -5,3 +5,5 @@ python-dotenv
 langchain-groq
 langgraph
 langsmith
+Ipython
+langchain_tavily
